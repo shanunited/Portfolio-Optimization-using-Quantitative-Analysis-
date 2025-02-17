@@ -1,0 +1,8 @@
+statsmodels
+pandas_datareader
+datetime
+yfinance
+sklearn
+PyPortfolioOpt
+pandas_ta
+beautifulsoup4
